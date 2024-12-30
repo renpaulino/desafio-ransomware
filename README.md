@@ -12,13 +12,16 @@ Este projeto foi criado utilizando Python e faz uso da biblioteca pyaes para rea
 * **encrypter.py:** Código que irá criptografar o arquivo `arquivo.txt`, alterando a sua extensão para `arquivo.txt.ransomware` e deixando seu conteúdo criptografado.
 * **decrypter.py:** Código que irá descriptografar o arquivo `arquivo.txt.ransomware`.
 
-* **Prints**
+### Prints
 
-* **Lista de Arquivos**
+### Lista de Arquivos
+
 ![Alt text](./lista_de_arquivos.png "Optional title")
 
-* **Texto Criptografado**
+### Texto Criptografado
+
 ![Alt text](./texto_criptografado.png "Optional title")
 
-* **Texto Descriptografado**
+### Texto Descriptografado
+
 ![Alt text](./texto_descriptografado.png "Optional title")
