@@ -26,10 +26,10 @@ sudo apt install python3-pyaes
 
 
 **Criptografando a mensagem**
-Por causa do Script, o nome do arquivo foi alterado para teste.txt.ransonwaretroll
+Por causa do Script, o nome do arquivo foi alterado para teste.txt.ransomwaretroll
 ![Alt text](./prints/2etapa.png)
 
-**Conteúdo do teste.txt.ransonwaretroll**
+**Conteúdo do teste.txt.ransomwaretroll**
 
 ![Alt text](./prints/conteudotxt2.png "Mensagem do arquivo: são vários simbolos aleatórios")
 
