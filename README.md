@@ -20,7 +20,6 @@ https://github.com/user-attachments/assets/eaf475b7-22c6-4149-999e-f40abc6e37d5
 -----
 ![pj-2](https://github.com/user-attachments/assets/478c4705-eea5-4c97-a32d-6fffb6a59f35)
 
-***Projeto DIO - Instrutor Cassiano***
 -----
 ***Funcionamento:***
 -----
