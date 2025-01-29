@@ -1,8 +1,13 @@
 import os
 import pyaes
+import sys
+
+if len(sys.argv) != 2:
+    print("O nome do arquivo nao for dado. Use: python encrypter.py <filename>")
+    sys.exit(1)  # Indicate an error
 
 ## abrir o arquivo a ser criptografado
-file_name = "teste.txt"
+file_name = sys.argv[1]
 file = open(file_name, "rb")
 file_data = file.read()
 file.close()
